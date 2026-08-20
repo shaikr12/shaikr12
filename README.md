@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=shaikr12&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20(AI-ML)%20Student&descAlignY=55&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=ShaikRehan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20(AI-ML)%20Student&descAlignY=55&descSize=20" alt="header" />
 
-<a href="https://github.com/Shaik_Rehan">
+<a href="https://github.com/shaikr12">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+(AI-ML)+Student;Exploring+Python+%26+Machine+Learning;Building+with+AI+Tools;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
@@ -10,7 +10,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=handshake&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=ShaikRehan&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shaikr12&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/shaikr12?style=for-the-badge&color=7dd3fc&logo=github" alt="Followers" />
 
 </div>
