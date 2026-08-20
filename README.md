@@ -20,7 +20,7 @@
 ## 🧠 Who I Am
 
 ```typescript
-const shaikr12 = {
+const ShaikRehan = {
   title: "CS (AI-ML) Student",
   stack: ["Python", "AI Tools", "Machine Learning"],
   launchedProjects: [],
