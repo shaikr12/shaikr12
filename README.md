@@ -10,7 +10,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=handshake&logoColor=black)
 
-<img src="https://komarev.com/ghpvc/?username=Shaik_Rehan&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ShaikRehan&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/shaikr12?style=for-the-badge&color=7dd3fc&logo=github" alt="Followers" />
 
 </div>
